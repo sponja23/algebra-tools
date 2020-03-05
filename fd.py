@@ -1,0 +1,1 @@
+fd = {}  # Forward declarations
